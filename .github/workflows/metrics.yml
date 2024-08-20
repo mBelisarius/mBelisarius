@@ -20,6 +20,10 @@ jobs:
           user: mBelisarius
           template: classic
           base: header, repositories, metadata
+          base_indepth: yes
+          repositories: 100
+          repositories_forks: yes
+          repositories_affiliations: owner, collaborator
           config_timezone: America/Sao_Paulo
           
           # Plugin Languages (most used languages)
@@ -30,7 +34,13 @@ jobs:
           plugin_languages_ignored: Jupyter Notebook
           plugin_languages_colors: github
           plugin_languages_details: lines, percentage
-          plugin_languages_indepth: yes
+          plugin_languages_indepth: true
           plugin_languages_limit: 4
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          commits_authoring: firstname lastname, username, username@users.noreply.github.com
+
+          # Additional plugins
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/notable/README.md
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/posts/README.md
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/sponsors/README.md
