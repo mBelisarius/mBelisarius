@@ -19,7 +19,7 @@ jobs:
           # Options
           user: mBelisarius
           template: classic
-          base: header, repositories, metadata
+          base: repositories, metadata
           base_indepth: yes
           repositories: 100
           repositories_forks: yes
