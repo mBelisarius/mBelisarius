@@ -82,16 +82,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 41.3mb of code in 856 edited files across 150 commits</small>
+                <small>estimation from 41.6mb of code in 858 edited files across 151 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="269.3290564660189" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="269.3290564660189" y="0" width="133.42644097414433" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="402.75549744016325" y="0" width="44.259382826502616" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="447.0148802666659" y="0" width="12.98511973333413" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="269.3266388194037" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="269.3266388194037" y="0" width="133.4293724790846" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="402.7560112984883" y="0" width="44.25898552979617" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="447.0149968282845" y="0" width="12.98500317171548" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -150,7 +150,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Jul 2025, 07:28:29 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jul 2025, 08:22:52 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
