@@ -31,7 +31,7 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
-          plugin_languages_ignored: Jupyter Notebook
+          plugin_languages_ignored: Jupyter Notebook, CMake
           plugin_languages_colors: github
           plugin_languages_details: lines, percentage
           plugin_languages_indepth: true
